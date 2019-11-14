@@ -1,27 +1,27 @@
 {
-  "name": "ccr",
+  "name": "simplecalcjs",
   "version": "1.0.0",
-  "description": "Crisis Center Radicalisme",
+  "description": "Simple Calculator with Javascript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/artmxra7/ccr.git",
+    "url": "git+https://github.com/artmxra7/simpleCalcJS.git",
     "dev": "webpack"
   },
   "keywords": [
-    "CCR",
+    "SimpleCalc",
     "Erwin",
     "Rahayu"
   ],
   "author": "Erwin Rahayu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/artmxra7/ccr/issues"
+    "url": "https://github.com/artmxra7/simpleCalcJS/issues"
   },
-  "homepage": "https://github.com/artmxra7/ccr#readme",
+  "homepage": "https://github.com/artmxra7/simpleCalcJS#readme",
   "devDependencies": {
     "@babel/core": "^7.7.2",
     "@babel/preset-env": "^7.7.1",
