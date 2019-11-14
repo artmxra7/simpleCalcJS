@@ -1,0 +1,39 @@
+{
+  "name": "ccr",
+  "version": "1.0.0",
+  "description": "Crisis Center Radicalisme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artmxra7/ccr.git",
+    "dev": "webpack"
+  },
+  "keywords": [
+    "CCR",
+    "Erwin",
+    "Rahayu"
+  ],
+  "author": "Erwin Rahayu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artmxra7/ccr/issues"
+  },
+  "homepage": "https://github.com/artmxra7/ccr#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-es2015": "^6.24.1",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-sass": "^4.0.2",
+    "jquery": "^3.4.1",
+    "webpack": "^4.41.2",
+    "webpack-stream": "^5.2.1"
+  }
+}
